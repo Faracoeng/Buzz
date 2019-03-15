@@ -5,8 +5,9 @@ public class Principal {
     Buzz teste = new Buzz();
 
    // teste.disparaLaser();
-    teste.abrirVisor();
-    teste.fecharVisor();
+    //teste.abrirVisor();
+    //teste.fecharVisor();
+        teste.falar();
     }
 
 

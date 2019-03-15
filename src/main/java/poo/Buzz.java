@@ -1,14 +1,26 @@
 package poo;
 
-public class Buzz {
+import java.util.Random;
 
+public class Buzz {
+    //Atributos
+    private String frases [] = {"Eu sou Buzz Lightyear", "Ao infinito, e além! ", "Buzz Lightyear ao resgate!!",
+                                "Buzz Lightyear se apresentando para o serviço", "Eu sou Buzz Lightear, patrulheiro espacial", "Buzz Lightyear, desligando!!",};
+    private Random rand = new Random();
+
+    //Métodos
     void abrirVisor(){
         System.out.println("visor aberto");
     }
     void fecharVisor(){
         System.out.println("visor fechado");
     }
-    //private
+    void falar(){
+
+        System.out.println(frases[rand.nextInt(6)]);
+    }
+
+
 
     void disparaLaser(){
 
