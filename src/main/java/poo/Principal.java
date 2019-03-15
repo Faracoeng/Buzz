@@ -6,5 +6,6 @@ public class Principal {
     for (int i = 0; i < 3 ; i++){
         buzzlightyear[i]= new Buzz();
     }
+    buzzlightyear[0].falar();
     }
 }
