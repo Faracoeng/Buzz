@@ -12,7 +12,7 @@
 **Há apenas 3 objetos instanciados no vetor *buzzlightyear***
 
 ### Modo de uso:
-O programa possui um menu inicial que permite utilizar as funções do programa:
+O programa possui um menu inicial que permite utilizar suas funções:
 
                 |     1 - Abrir visor    |
                 |     2 - Fechar visor   |
