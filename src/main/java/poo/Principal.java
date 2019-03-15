@@ -7,7 +7,8 @@ public class Principal {
    // teste.disparaLaser();
     //teste.abrirVisor();
     //teste.fecharVisor();
-        teste.falar();
+        // teste.falar();
+        teste.golpear();
     }
 
 
