@@ -9,8 +9,21 @@
 - Dispara laser;
 
 ### Restrições:
-**Há 3 objetos instanciados no vetor *buzzlightyear***
+**Há apenas 3 objetos instanciados no vetor *buzzlightyear***
 
+### Modo de uso:
+O programa possui um menu inicial que permite utilizar as funções do programa:
+
+                |     1 - Abrir visor    |
+                |     2 - Fechar visor   |
+                |     3 - Falar          |
+                |     4 - Disparar laser |
+                |     5 - Golpear        |
+                |     6 - Abrir asas     |
+                |     0 - Sair           |
+              
+                
+               
 
 
 
