@@ -1,5 +1,5 @@
 # Buzz Lightyear
-![Buzz](https://www.khwiki.com/images/thumb/b/b1/Buzz_Lightyear_KHIII.png/315px-Buzz_Lightyear_KHIII.png)
+![Buzz](http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Picture.png)
 
 ### Funcionalidades:
 - Fala 6 frases distintas selecionadas aleatoriamente;
