@@ -28,6 +28,9 @@ public class Buzz {
     void golpear(){
         System.out.println(golpes[rand.nextInt(7)]);
     }
+    void asas(){
+        System.out.println("Sistema de vôo ativado ");
+    }
 }
 
 

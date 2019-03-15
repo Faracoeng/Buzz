@@ -8,7 +8,9 @@ public class Principal {
     //teste.abrirVisor();
     //teste.fecharVisor();
         // teste.falar();
-        teste.golpear();
+        //teste.golpear();
+        teste.asas();
+
     }
 
 
