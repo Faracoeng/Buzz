@@ -1,11 +1,14 @@
 package poo;
 
 public class Buzz {
-    //private
 
     void abrirVisor(){
-
+        System.out.println("visor aberto");
     }
+    void fecharVisor(){
+        System.out.println("visor fechado");
+    }
+    //private
 
     void disparaLaser(){
 
